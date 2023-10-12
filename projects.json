@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Seleção de personagens One Piece",
+    "image": "assets/one-piece.png",
+    "tags": ["JavaScript", "HTML", "CSS"],
+    "link": "https://thalesdiasdeoliveira.github.io/One-Piece/"
+  },
+  {
+    "name": "Seleção de personagens X-men",
+    "image": "assets/x-men.png",
+    "tags": ["JavaScript", "HTML", "CSS"],
+    "link": "https://thalesdiasdeoliveira.github.io/x-men-selecao/"
+  },
+  {
+    "name": "Super Mario Bros. - O Filme",
+    "image": "assets/Mario.png",
+    "tags": ["JavaScript", "HTML", "CSS"],
+    "link": "https://thalesdiasdeoliveira.github.io/Projeto-Mario/"
+  },
+
+  {
+    "name": "Culturama",
+    "image": "assets/culturama.png",
+    "tags": ["HTML", "CSS", "Responsivo"],
+    "link": "https://thalesdiasdeoliveira.github.io/Culturama/"
+  },
+  {
+    "name": "Alura Plus",
+    "image": "assets/alura-plus.png",
+    "tags": ["HTML", "CSS"],
+    "link": "https://thalesdiasdeoliveira.github.io/Aluraplus/"
+  },
+  {
+    "name": "Página de vendas - Acesso a comunidade de idiomas",
+    "image": "assets/Comunidade.png",
+    "tags": ["Wordpress"],
+    "link": "https://comunidadeoliveira.com.br/acesso/"
+  },
+  {
+    "name": "Barbearia Alura",
+    "image": "assets/barbearia-alura.png",
+    "tags": ["HTML", "CSS"],
+    "link": "https://thalesdiasdeoliveira.github.io/barbearia-alura/"
+  }
+]
