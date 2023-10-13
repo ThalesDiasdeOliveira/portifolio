@@ -41,13 +41,13 @@
 }
 
 .project strong {
-font-size: 16px;
-font-weight: 600;
-color: var(--secondary);
-text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--secondary);
+  text-align: center;
 
-padding: 0 18px;
-transition: all 0.4s;
+  padding: 0 18px;
+  transition: all 0.4s;
 }
 
 .project div {
@@ -73,6 +73,28 @@ transition: all 0.4s;
   transform: scale(1.1);
 }
 
-.project:hover strong{
-color: var(--link);
+.project:hover strong {
+  color: var(--link);
+}
+
+@media (max-width:1080px) {
+  .projects {
+    padding: 24px;
+  }
+
+  #project__content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width:768px) {
+  #project__content {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .project picture {
+    height: 180px;
+  }
 }
