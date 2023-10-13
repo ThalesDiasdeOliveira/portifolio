@@ -31,11 +31,18 @@
     "link": "https://thalesdiasdeoliveira.github.io/Aluraplus/"
   },
   {
+    "name": "Barbie - O Filme",
+    "image": "assets/barbie.png",
+    "tags": ["HTML", "CSS"],
+    "link": "https://thalesdiasdeoliveira.github.io/youtube-site-barbie/"
+  },
+  {
     "name": "Página de vendas - Acesso a comunidade de idiomas",
     "image": "assets/Comunidade.png",
     "tags": ["Wordpress"],
     "link": "https://comunidadeoliveira.com.br/acesso/"
   },
+
   {
     "name": "Barbearia Alura",
     "image": "assets/barbearia-alura.png",
