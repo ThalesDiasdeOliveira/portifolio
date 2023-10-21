@@ -4,18 +4,27 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Thales Oliveira</title>
+
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+
   <link rel="stylesheet" href="styles/global.css">
+
   <script src="https://unpkg.com/@phosphor-icons/web"></script>
 
-  <title>Thales Oliveira</title>
+  <!-- Script AOS - Animações -->
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 </head>
 
 <body>
   <div class="app">
 
-    <section class="card user">
+    <section class="card user" 
+    data-aos="fade-right" 
+    data-aos-duration="800" 
+    data-aos-easing="ease-in-out"
+    >
       <picture>
         <img src="assets/Comunidade Oliveira.jpg" alt="imagem do Thales Oliveira">
       </picture>
@@ -32,11 +41,11 @@
           <a href="https://github.com/ThalesDiasdeOliveira" class="social__link" target="_blank">
             <i class="ph ph-github-logo"></i>
           </a>
-          
+
           <a href="https://comunidadeoliveira.com.br/acesso/" class="social__link" target="_blank">
             <i class="ph ph-globe-hemisphere-west"></i>
           </a>
-          
+
 
           <a href="https://www.instagram.com/thalespoliglota/" class="social__link" target="_blank">
             <i class="ph ph-instagram-logo"></i>
@@ -49,7 +58,11 @@
       </div>
     </section>
 
-    <section class="card about">
+    <section class="card about" 
+    data-aos="fade-left" 
+    data-aos-duration="800" 
+    data-aos-easing="ease-in-out"
+    >
       <h2 class="subtitle">Sobre</h2>
       <p>
         Lidero uma comunidade de idiomas com foco na alta performance e prática. Sou tutor/professor de 5 idiomas.
@@ -58,8 +71,8 @@
       </p>
 
       <p>
-        Produzo conteúdos de francês que impactam milhares de pessoas mensalmente no canal da Kultivi em <a href="https://www.youtube.com/@kultiviseufrances"
-          target="_blank">Kultivi seu francês</a> no Youtube.
+        Produzo conteúdos de francês que impactam milhares de pessoas mensalmente no canal da Kultivi em <a
+          href="https://www.youtube.com/@kultiviseufrances" target="_blank">Kultivi seu francês</a> no Youtube.
       </p>
 
       <p>
@@ -68,16 +81,24 @@
 
     </section>
 
-    <section class="card projects">
+    <section class="card projects" 
+    data-aos="fade-up" 
+    data-aos-duration="800" 
+    data-aos-easing="ease-in-out"
+    >
       <h2 class="subtitle">Projetos</h2>
 
       <div id="project__content">
       </div>
     </section>
-
-
   </div>
-<script src="./scripts/index.js"></script>
+
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script>
+    AOS.init({ once: true })
+  </script>
+  <script src="./scripts/index.js"></script>
+
 </body>
 
 </html>
