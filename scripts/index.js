@@ -41,7 +41,7 @@ const createProject = (project, index) => {
   elemProject.setAttribute('data-aos-duration', '800')
   elemProject.setAttribute('data-aos-easing', 'ease-in-out')
   elemProject.setAttribute('data-aos-offset', '-100')
-  elemProject.setAttribute('data-aos-delay', 250 * (index + 1))
+  elemProject.setAttribute('data-aos-delay', 200 * (index + 1))
 
   elemProject.classList.add('project')
   
