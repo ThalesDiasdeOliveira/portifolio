@@ -11,5 +11,5 @@ Projetos desenvolvidos 🤍
 ![gif do projeto](./assets/portifoliogif.gif)
 
 ## Link
-[https://thalesdiasdeoliveira.github.io/portifolio/](https://thalesdiasdeoliveira.github.io/portifolio/)
+[https://tharlesoliveira.netlify.app/](https://tharlesoliveira.netlify.app/)
 
