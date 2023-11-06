@@ -15,20 +15,20 @@
     "name": "Super Mario Bros. - O Filme",
     "image": "assets/Mario.png",
     "tags": ["JavaScript", "HTML", "CSS"],
-    "link": "https://thalesdiasdeoliveira.github.io/Projeto-Mario/"
+    "link": "https://github.com/ThalesDiasdeOliveira/Mario"
   },
 
   {
     "name": "Culturama",
     "image": "assets/culturama.png",
     "tags": ["HTML", "CSS", "Responsivo"],
-    "link": "https://thalesdiasdeoliveira.github.io/Culturama/"
+    "link": "https://github.com/ThalesDiasdeOliveira/Culturama"
   },
   {
     "name": "Alura Plus",
     "image": "assets/alura-plus.png",
     "tags": ["HTML", "CSS"],
-    "link": "https://thalesdiasdeoliveira.github.io/Aluraplus/"
+    "link": "https://github.com/ThalesDiasdeOliveira/Aluraplus"
   },
   {
     "name": "Barbie - O Filme",
@@ -40,7 +40,7 @@
     "name": "Frontend Mentor Challange - NFT preview card",
     "image": "assets/Frontendmentor.png",
     "tags": ["HTML", "CSS"],
-    "link": "https://thalesdiasdeoliveira.github.io/Frontend-Mentor-NFT-preview-card-component/"
+    "link": "https://github.com/ThalesDiasdeOliveira/NFT-Card"
   },
   {
     "name": "Página de vendas - Comunidade de idiomas",
@@ -53,6 +53,6 @@
     "name": "Barbearia Alura",
     "image": "assets/barbearia-alura.png",
     "tags": ["HTML", "CSS"],
-    "link": "https://thalesdiasdeoliveira.github.io/barbearia-alura/"
+    "link": "https://github.com/ThalesDiasdeOliveira/BarbeariaAlura"
   }
 ]
