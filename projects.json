@@ -24,24 +24,35 @@
     "tags": ["HTML", "CSS", "Responsivo"],
     "link": "https://github.com/ThalesDiasdeOliveira/Culturama"
   },
-  {
-    "name": "Alura Plus",
-    "image": "assets/alura-plus.png",
-    "tags": ["HTML", "CSS"],
-    "link": "https://github.com/ThalesDiasdeOliveira/Aluraplus"
-  },
+  
   {
     "name": "Barbie - O Filme",
     "image": "assets/Barbie.png",
     "tags": ["HTML", "CSS"],
     "link": "https://github.com/ThalesDiasdeOliveira/site-barbie"
   },
+
+  {
+    "name": "Guardiões da Galáxia",
+    "image": "assets/Guardioes-da-Galaxia.png",
+    "tags": ["HTML", "CSS", "JavaScript"],
+    "link": "https://github.com/ThalesDiasdeOliveira/Guardioes-da-galaxia"
+  },
+
   {
     "name": "Frontend Mentor Challange - NFT preview card",
     "image": "assets/Frontendmentor.png",
     "tags": ["HTML", "CSS"],
     "link": "https://github.com/ThalesDiasdeOliveira/NFT-Card"
   },
+
+  {
+    "name": "Alura Plus",
+    "image": "assets/alura-plus.png",
+    "tags": ["HTML", "CSS"],
+    "link": "https://github.com/ThalesDiasdeOliveira/Aluraplus"
+  },
+
   {
     "name": "Página de vendas - Comunidade de idiomas",
     "image": "assets/Comunidade.png",
